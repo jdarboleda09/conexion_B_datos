@@ -1,0 +1,24 @@
+{
+    "name": "conexion-bd",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.22.1",
+        "mysql2": "^3.18.1"
+    },
+    "description": "esta es una conexion a base de datos",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jdarboleda09/conexion_B_datos.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jdarboleda09/conexion_B_datos/issues"
+    },
+    "homepage": "https://github.com/jdarboleda09/conexion_B_datos#readme"
+}
